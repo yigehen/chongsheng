@@ -6,7 +6,7 @@
 - 已确定人物基础方案：林川 / 江予柔 / 林河。
 - 已确定哥哥前世死亡方式走被人坑导致事故方向。
 - 已补完前30章节奏、开篇3章硬钩子、第一桶金方式与事故触发链。
-- 已完成第1章至第65章首轮正文草稿。
+- 已完成第1章至第75章首轮正文草稿。
 - 已同步更新章节索引、README、项目说明、风控与下一步指针。
 
 ## Completed runs
@@ -29,3 +29,4 @@
 - 2026-04-14: Drafted chapters 51-55 (`51.md`-`55.md`) and synced chapter index / README / notes / progress / next-step pointer around 仓库半张签到联落地、许广成亲自到西口、江予柔现场看名单、林河当众亮证反击，以及风险处置预排纸被林川抢到手。
 
 - 2026-04-15: Drafted chapters 56-65 (`56.md`-`65.md`) and synced chapter index / README / notes / progress / next-step pointer around 预排纸转藏、病案楼誊抄、赵志强崩口、许广成亲自压场、老贺字迹线，以及周助扑向照相馆。
+- 2026-04-18: Drafted chapters 66-75 (`66.md`-`75.md`) and synced chapter index / README / notes / risk-control / progress / next-step pointer / memory around 照相馆抢证扑空、原件二次转移、底单压痕带出二零七再转、后勤老周落地、孙庆来煤油恐吓崩口、档案馆清库前夜，以及林河用办公物料急单把赚钱壳和潜入壳一起搭实。
