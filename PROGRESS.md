@@ -6,7 +6,7 @@
 - 已确定人物基础方案：林川 / 江予柔 / 林河。
 - 已确定哥哥前世死亡方式走被人坑导致事故方向。
 - 已补完前30章节奏、开篇3章硬钩子、第一桶金方式与事故触发链。
-- 已完成第1章至第75章首轮正文草稿。
+- 已完成第1章至第85章首轮正文草稿。
 - 已同步更新章节索引、README、项目说明、风控与下一步指针。
 
 ## Completed runs
@@ -24,9 +24,10 @@
 
 ## Notes
 - 本书与《火光深处等春来》严格分开管理。
-- 当前已完成前55章首轮落地，下一步可继续起草56-60章，围绕风险处置预排纸怎么保存和转抄、赵志强会不会松口、许广成如何抢救现场口径，以及林川是否能顺势把医院与西口两头证据真正并成案来继续推进。
+- 当前已完成前85章首轮落地，下一步可继续起草86-90章，围绕下午补盒单能否再次切回东后楼、东桥夜转铁箱是否就是原盒转移、梁守信如何在系统号落成前最后收口，以及林川是否能把馆内现行洗号与东后二层西库主联合成更硬的新筹码来继续推进。
 
 - 2026-04-14: Drafted chapters 51-55 (`51.md`-`55.md`) and synced chapter index / README / notes / progress / next-step pointer around 仓库半张签到联落地、许广成亲自到西口、江予柔现场看名单、林河当众亮证反击，以及风险处置预排纸被林川抢到手。
 
 - 2026-04-15: Drafted chapters 56-65 (`56.md`-`65.md`) and synced chapter index / README / notes / progress / next-step pointer around 预排纸转藏、病案楼誊抄、赵志强崩口、许广成亲自压场、老贺字迹线，以及周助扑向照相馆。
 - 2026-04-18: Drafted chapters 66-75 (`66.md`-`75.md`) and synced chapter index / README / notes / risk-control / progress / next-step pointer / memory around 照相馆抢证扑空、原件二次转移、底单压痕带出二零七再转、后勤老周落地、孙庆来煤油恐吓崩口、档案馆清库前夜，以及林河用办公物料急单把赚钱壳和潜入壳一起搭实。
+- 2026-04-20: Drafted chapters 76-85 (`76.md`-`85.md`) and synced chapter index / README / notes / risk-control / progress / next-step pointer / memory around 档案馆清库实场景落地、灰夹克孟国兴与梁守信实名化、老周烟盒递话、GZ-QK-17副页系统号露面、东后楼旧材料组与二层西库落地、二零七原始主联仍在馆外，以及东桥铁箱夜转把收口倒计时压到按小时计算。
