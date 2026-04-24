@@ -33,3 +33,5 @@
 - 2026-04-15: Drafted chapters 56-65 (`56.md`-`65.md`) and synced chapter index / README / notes / progress / next-step pointer around 预排纸转藏、病案楼誊抄、赵志强崩口、许广成亲自压场、老贺字迹线，以及周助扑向照相馆。
 - 2026-04-18: Drafted chapters 66-75 (`66.md`-`75.md`) and synced chapter index / README / notes / risk-control / progress / next-step pointer / memory around 照相馆抢证扑空、原件二次转移、底单压痕带出二零七再转、后勤老周落地、孙庆来煤油恐吓崩口、档案馆清库前夜，以及林河用办公物料急单把赚钱壳和潜入壳一起搭实。
 - 2026-04-20: Drafted chapters 76-85 (`76.md`-`85.md`) and synced chapter index / README / notes / risk-control / progress / next-step pointer / memory around 档案馆清库实场景落地、灰夹克孟国兴与梁守信实名化、老周烟盒递话、GZ-QK-17副页系统号露面、东后楼旧材料组与二层西库落地、二零七原始主联仍在馆外，以及东桥铁箱夜转把收口倒计时压到按小时计算。
+
+- 2026-04-24: Drafted chapters 96-105 (`96.md`-`105.md`) and synced project pointers around 人和纸分开、老秦撕角、赵字签接、第三手老陈线、送钱壳半露主索引、陈秘书与二零七协调底。
