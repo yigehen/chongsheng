@@ -6,8 +6,9 @@
 - 已确定人物基础方案：林川 / 江予柔 / 林河。
 - 已确定哥哥前世死亡方式走被人坑导致事故方向。
 - 已补完前30章节奏、开篇3章硬钩子、第一桶金方式与事故触发链。
-- 已完成第1章至第95章首轮正文草稿。
+- 已完成第1章至第115章首轮正文草稿。
 - 已同步更新章节索引、README、项目说明、风控与下一步指针。
+- 当前主线已推进到陈秘书协调底、质安站后院底册、补装空班、旧台账附记与今晚先试一车的事故提前口。
 
 ## Completed runs
 - 2026-04-11: Initialized separate project for the new novel and fixed title / core concept / cast / structure boundary.
@@ -24,7 +25,7 @@
 
 ## Notes
 - 本书与《火光深处等春来》严格分开管理。
-- 当前已完成前95章首轮落地，下一步应继续起草96-100章，围绕梁守信提出的人和纸分开会先拆谁、老秦与老周怎样进一步自保崩口、周助如何收紧老馆后门与桥东线，以及东桥桥面第三拨盯主链的人到底是谁来继续推进。
+- 当前已完成前115章首轮落地，下一步应继续起草116-120章，围绕今晚先试一车、排班附记、蓝工装小排班、赵志文换命与林河如何提前避开被写进空班的那只手来继续推进。
 
 - 2026-04-22: Drafted chapters 86-95 (`86.md`-`95.md`) and synced chapter index / README / notes / risk-control / progress / next-step pointer / memory around 桥东旧泵房中转、梁守信与周柱盯箱、老馆后坡修复后勤门落地、主索引说明升格为链口缺件、老周责任线自曝、老秦撕毁并对页签接栏，以及梁守信被迫暂停当夜并转、改成人和纸分开。
 
@@ -35,3 +36,5 @@
 - 2026-04-20: Drafted chapters 76-85 (`76.md`-`85.md`) and synced chapter index / README / notes / risk-control / progress / next-step pointer / memory around 档案馆清库实场景落地、灰夹克孟国兴与梁守信实名化、老周烟盒递话、GZ-QK-17副页系统号露面、东后楼旧材料组与二层西库落地、二零七原始主联仍在馆外，以及东桥铁箱夜转把收口倒计时压到按小时计算。
 
 - 2026-04-24: Drafted chapters 96-105 (`96.md`-`105.md`) and synced project pointers around 人和纸分开、老秦撕角、赵字签接、第三手老陈线、送钱壳半露主索引、陈秘书与二零七协调底。
+
+- 2026-04-28: Drafted chapters 106-115 (`106.md`-`115.md`) and synced chapter index / README / notes / risk-control / progress / next-step / memory around 陈秘书二零七协调底、质安站后院底册、赵志文换命、补装空班、旧台账附记与今晚先试一车。
