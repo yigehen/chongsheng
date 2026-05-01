@@ -1,11 +1,13 @@
 # NEXT_STEP.md
 
 ## Resume pointer
-- Current recovery point: Chapter 116 drafting edge
-- Current target file: `chapters/116.md`
-- Task type: next bounded drafting pass
+- Current recovery point: post-Chapter 130 试车被卡住、许广成声音亲自下场
+- Current target file: `chapters/131.md`
+- Task type: next bounded draft
+
+## Latest maintenance note
+- Chapters 116-130 have been drafted and checked for basic continuity, 1500+ body characters, no破折号/双引号 in prose, and no blunt carry-over phrasing.
 
 ## Next bounded task
-- Goal: draft Chapters 116-120，紧接今晚先试一车与排班附记，继续推进蓝工装排班人、空班落名、赵志文换命松口与林河如何避开被提前塞进事故现场。
-- Note: 第99章到第115章已于 2026-04-29 完成统一排查与扩写修订，当前无需再回补 100 章后已写章节；后续可直接按 116-120 继续前推。
-- Output required: new `chapters/116.md` to `chapters/120.md`, synced chapter index / project notes / risk-control / progress pointer.
+- Goal: draft Chapter 131 from 许广成亲自下场继续，处理陈秘书急电后的反扑、林河暂时脱险后的余波，以及江予柔被明暗两线盯上的新压力。
+- Output required: updated chapter file(s), updated `PROGRESS.md`, rewritten `NEXT_STEP.md`.

@@ -40,3 +40,4 @@
 - 2026-04-24: Drafted chapters 96-105 (`96.md`-`105.md`) and synced project pointers around 人和纸分开、老秦撕角、赵字签接、第三手老陈线、送钱壳半露主索引、陈秘书与二零七协调底。
 
 - 2026-04-28: Drafted chapters 106-115 (`106.md`-`115.md`) and synced chapter index / README / notes / risk-control / progress / next-step / memory around 陈秘书二零七协调底、质安站后院底册、赵志文换命、补装空班、旧台账附记与今晚先试一车。
+- 2026-05-01: Drafted chapters 116-130 (`116.md`-`130.md`) and synced README / chapter index / project notes / risk-control / progress / next-step / memory around 今晚先试一车、封住大刘和瘦猴、烟盒银纸替补名、空跑车、老陈旧命、真表临时柜、江予柔明面诱饵、赵志文上车、第二座位与许广成亲自下场。
