@@ -6,7 +6,7 @@
 - Task type: next bounded draft
 
 ## Latest maintenance note
-- Chapters 116-130 have been drafted and checked for basic continuity, 1500+ body characters, no破折号/双引号 in prose, and no blunt carry-over phrasing.
+- 2026-05-03 repair check: Chapters 116-130 have been rewritten where duplicate content appeared and re-checked for distinct body hashes, 1500+ body characters, no破折号/双引号 in prose, and no blunt carry-over phrasing.
 
 ## Next bounded task
 - Goal: draft Chapter 131 from 许广成亲自下场继续，处理陈秘书急电后的反扑、林河暂时脱险后的余波，以及江予柔被明暗两线盯上的新压力。
