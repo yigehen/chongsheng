@@ -42,3 +42,4 @@
 - 2026-04-28: Drafted chapters 106-115 (`106.md`-`115.md`) and synced chapter index / README / notes / risk-control / progress / next-step / memory around 陈秘书二零七协调底、质安站后院底册、赵志文换命、补装空班、旧台账附记与今晚先试一车。
 - 2026-05-01: Drafted chapters 116-130 (`116.md`-`130.md`) and synced README / chapter index / project notes / risk-control / progress / next-step / memory around 今晚先试一车、封住大刘和瘦猴、烟盒银纸替补名、空跑车、老陈旧命、真表临时柜、江予柔明面诱饵、赵志文上车、第二座位与许广成亲自下场。
 - 2026-05-03: Repaired chapters 116-130 after duplicate-content discovery; replaced the repeated text with distinct chapter prose, backed up the duplicate files, and re-verified all 15 chapter bodies are 1500+ Chinese characters with no duplicate body hashes and no banned carry-over phrasing / 破折号 / 双引号 in prose.
+- 2026-05-05: Drafted chapters 131-140 (`131.md`-`140.md`) and synced chapter index / notes / risk-control / progress / next-step around 许广成亲自下场、江家女方压力口、赵志文拒签与女儿施压、学校急单明账作证，以及危改验收名单成为新事故口。
