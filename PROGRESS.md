@@ -6,7 +6,7 @@
 - 已确定人物基础方案：林川 / 江予柔 / 林河。
 - 已确定哥哥前世死亡方式走被人坑导致事故方向。
 - 已补完前30章节奏、开篇3章硬钩子、第一桶金方式与事故触发链。
-- 已完成第1章至第130章首轮正文草稿。
+- 已完成第1章至第155章首轮正文草稿。
 - 已同步更新章节索引、README、项目说明、风控与下一步指针。
 - 当前主线已推进到陈秘书协调底、质安站后院底册、补装空班、旧台账附记与今晚先试一车的事故提前口。
 - 第99章到第115章已于 2026-04-29 完成统一排查与扩写修订，正文现均达到 1500 字以上，并完成禁用承接词复核。
@@ -27,7 +27,7 @@
 
 ## Notes
 - 本书与《火光深处等春来》严格分开管理。
-- 当前已完成前130章首轮落地；116-130章已在重复内容发现后完成重写修复与复核。下一步应继续起草131章，从许广成亲自下场后的反扑、林河阶段性脱险余波、江予柔与江家被盯的新压力继续推进。
+- 当前已完成前155章首轮落地；141-155章已推进危改验收名单报送与专报口。下一步应继续起草156章，从县领导阅示材料、许广成更高层遮口和林河安全边界继续推进。
 
 - 2026-04-22: Drafted chapters 86-95 (`86.md`-`95.md`) and synced chapter index / README / notes / risk-control / progress / next-step pointer / memory around 桥东旧泵房中转、梁守信与周柱盯箱、老馆后坡修复后勤门落地、主索引说明升格为链口缺件、老周责任线自曝、老秦撕毁并对页签接栏，以及梁守信被迫暂停当夜并转、改成人和纸分开。
 
@@ -43,3 +43,4 @@
 - 2026-05-01: Drafted chapters 116-130 (`116.md`-`130.md`) and synced README / chapter index / project notes / risk-control / progress / next-step / memory around 今晚先试一车、封住大刘和瘦猴、烟盒银纸替补名、空跑车、老陈旧命、真表临时柜、江予柔明面诱饵、赵志文上车、第二座位与许广成亲自下场。
 - 2026-05-03: Repaired chapters 116-130 after duplicate-content discovery; replaced the repeated text with distinct chapter prose, backed up the duplicate files, and re-verified all 15 chapter bodies are 1500+ Chinese characters with no duplicate body hashes and no banned carry-over phrasing / 破折号 / 双引号 in prose.
 - 2026-05-05: Drafted chapters 131-140 (`131.md`-`140.md`) and synced chapter index / notes / risk-control / progress / next-step around 许广成亲自下场、江家女方压力口、赵志文拒签与女儿施压、学校急单明账作证，以及危改验收名单成为新事故口。
+- 2026-05-07: Drafted chapters 141-155 (`141.md`-`155.md`) and synced chapter index / notes / risk-control / progress / next-step / memory around 危改验收名单报送口、林河安全边界反钓、许广成报送与专报反扑、赵志文女儿和学校急单明账作证、县领导阅示材料口。
