@@ -6,9 +6,9 @@
 - 已确定人物基础方案：林川 / 江予柔 / 林河。
 - 已确定哥哥前世死亡方式走被人坑导致事故方向。
 - 已补完前30章节奏、开篇3章硬钩子、第一桶金方式与事故触发链。
-- 已完成第1章至第155章首轮正文草稿。
+- 已完成第1章至第170章首轮正文草稿。
 - 已同步更新章节索引、README、项目说明、风控与下一步指针。
-- 当前主线已推进到陈秘书协调底、质安站后院底册、补装空班、旧台账附记与今晚先试一车的事故提前口。
+- 当前主线已推进到专报红便签被提前抽走、陈秘书二楼遮口、复印室预排口供、林河安全边界反拖、四张通知口径不一，以及陈秘书第一次从暗处下车。
 - 第99章到第115章已于 2026-04-29 完成统一排查与扩写修订，正文现均达到 1500 字以上，并完成禁用承接词复核。
 - 其中第99章补强第三手老陈旧事故线，第100章补强主索引说明半露与送钱壳露口策略，第101章到第115章补厚质安站后院底册、赵志文换命、陈秘书旧台账、空班附记与今晚先试一车这段连续倒计时。
 
@@ -27,7 +27,7 @@
 
 ## Notes
 - 本书与《火光深处等春来》严格分开管理。
-- 当前已完成前155章首轮落地；141-155章已推进危改验收名单报送与专报口。下一步应继续起草156章，从县领导阅示材料、许广成更高层遮口和林河安全边界继续推进。
+- 当前已完成前170章首轮落地；156-170章已推进县领导阅示材料口、陈秘书二楼遮口、复印室预排林河口供、七点前多重拖人钩子、红头通知和质安站后院口头改点。下一步应继续起草171章，从陈秘书当面下车、要求改点写纸、县综合楼门口明面冲突继续推进。
 
 - 2026-04-22: Drafted chapters 86-95 (`86.md`-`95.md`) and synced chapter index / README / notes / risk-control / progress / next-step pointer / memory around 桥东旧泵房中转、梁守信与周柱盯箱、老馆后坡修复后勤门落地、主索引说明升格为链口缺件、老周责任线自曝、老秦撕毁并对页签接栏，以及梁守信被迫暂停当夜并转、改成人和纸分开。
 
@@ -44,3 +44,4 @@
 - 2026-05-03: Repaired chapters 116-130 after duplicate-content discovery; replaced the repeated text with distinct chapter prose, backed up the duplicate files, and re-verified all 15 chapter bodies are 1500+ Chinese characters with no duplicate body hashes and no banned carry-over phrasing / 破折号 / 双引号 in prose.
 - 2026-05-05: Drafted chapters 131-140 (`131.md`-`140.md`) and synced chapter index / notes / risk-control / progress / next-step around 许广成亲自下场、江家女方压力口、赵志文拒签与女儿施压、学校急单明账作证，以及危改验收名单成为新事故口。
 - 2026-05-07: Drafted chapters 141-155 (`141.md`-`155.md`) and synced chapter index / notes / risk-control / progress / next-step / memory around 危改验收名单报送口、林河安全边界反钓、许广成报送与专报反扑、赵志文女儿和学校急单明账作证、县领导阅示材料口。
+- 2026-05-09: Drafted chapters 156-170 (`156.md`-`170.md`) and synced chapter index / notes / risk-control / progress / next-step / memory around 阅件箱复写底、二楼提前抽走红便签专报、陈秘书遮口、老邮电楼复印室预排口供、赵志文拒被女儿材料牵着走、七点前尾款/江家/母亲多重拖人钩子、红头通知口径不一、会议口头改到质安站后院，以及陈秘书在县综合楼门口现身。
