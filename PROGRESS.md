@@ -27,7 +27,7 @@
 
 ## Notes
 - 本书与《火光深处等春来》严格分开管理。
-- 当前已完成前170章首轮落地；156-170章已推进县领导阅示材料口、陈秘书二楼遮口、复印室预排林河口供、七点前多重拖人钩子、红头通知和质安站后院口头改点。下一步应继续起草171章，从陈秘书当面下车、要求改点写纸、县综合楼门口明面冲突继续推进。
+- 当前已完成前180章首轮落地；156-170章已推进县领导阅示材料口、陈秘书二楼遮口、复印室预排林河口供、七点前多重拖人钩子、红头通知和质安站后院口头改点。下一步应继续起草171章，从陈秘书当面下车、要求改点写纸、县综合楼门口明面冲突继续推进。
 
 - 2026-04-22: Drafted chapters 86-95 (`86.md`-`95.md`) and synced chapter index / README / notes / risk-control / progress / next-step pointer / memory around 桥东旧泵房中转、梁守信与周柱盯箱、老馆后坡修复后勤门落地、主索引说明升格为链口缺件、老周责任线自曝、老秦撕毁并对页签接栏，以及梁守信被迫暂停当夜并转、改成人和纸分开。
 
@@ -45,3 +45,7 @@
 - 2026-05-05: Drafted chapters 131-140 (`131.md`-`140.md`) and synced chapter index / notes / risk-control / progress / next-step around 许广成亲自下场、江家女方压力口、赵志文拒签与女儿施压、学校急单明账作证，以及危改验收名单成为新事故口。
 - 2026-05-07: Drafted chapters 141-155 (`141.md`-`155.md`) and synced chapter index / notes / risk-control / progress / next-step / memory around 危改验收名单报送口、林河安全边界反钓、许广成报送与专报反扑、赵志文女儿和学校急单明账作证、县领导阅示材料口。
 - 2026-05-09: Drafted chapters 156-170 (`156.md`-`170.md`) and synced chapter index / notes / risk-control / progress / next-step / memory around 阅件箱复写底、二楼提前抽走红便签专报、陈秘书遮口、老邮电楼复印室预排口供、赵志文拒被女儿材料牵着走、七点前尾款/江家/母亲多重拖人钩子、红头通知口径不一、会议口头改到质安站后院，以及陈秘书在县综合楼门口现身。
+
+- 2026-05-12: Drafted chapters 171-175 (`171.md`-`175.md`) and synced chapter index / notes / risk-control / progress / next-step / memory around 县综合楼门口改点写纸、后院签到表、质安站接收函、林河保留异议、江予柔街道纪检补充回执、许广成到场、原始报送底与今晚七点封存钩子。
+
+- 2026-05-12: Drafted chapters 176-180 (`176.md`-`180.md`) and synced chapter index / notes / risk-control / progress / next-step / memory around 七点封存第二预案、货场回单清证、GZ-WG-19封皮编号、收发室牛皮袋、待许签链条、原始报送底与二楼旧登记册转封存室。
